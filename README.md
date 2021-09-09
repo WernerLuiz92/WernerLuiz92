@@ -1,13 +1,19 @@
 ### Oi, tudo bem? 👋
 
 - 🙋‍♂️ Meu nome é Werner Luiz Gottschalt. Sou estudante do curso Técnico em Informática na Escola Téc. Estadual 25 de Julho.
-- 👨‍💻 Trabalho como desenvolvedor de sistemas na [Lumiun Tecnologia](https://www.lumiun.com/).
-- 🎓 Atualmente estou estudando:
+- 👨‍💻 Trabalho como desenvolvedor full stack na [Lumiun Tecnologia](https://www.lumiun.com/).
+- 🔧 Atualmente trabalho com:
   - PHP
   - Laravel
   - VueJS
+  - InertiaJS
+  - TailwindCSS
+  - MySQL
+- 🎓 Estudando:
   - APIs e HTTP Protocol
+  - DNS Fundamentals
   - JavaScript
+  - TypeScript
   - NestJS
 
 ## Algumas estatísticas do meu perfil
