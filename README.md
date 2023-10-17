@@ -1,7 +1,7 @@
 ### Oi, tudo bem? 👋
 
 - 🙋‍♂️ Meu nome é Werner Luiz Gottschalt. Sou apaixonado por programação e gosto sempre de aprender mais e mais!
-- 👨‍💻 Trabalho como desenvolvedor full stack na [Lumiun Tecnologia](https://www.lumiun.com/).
+- 👨‍💻 Trabalho como desenvolvedor Pleno full stack na [Lumiun Tecnologia](https://www.lumiun.com/).
 - 🔧 Atualmente trabalho com:
   - PHP
   - Laravel
@@ -9,6 +9,8 @@
   - InertiaJS
   - TailwindCSS
   - MySQL
+- 🎓 Estou estudando:
+  - Python
 
 ## Algumas estatísticas do meu perfil
 
