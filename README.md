@@ -16,6 +16,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WernerLuiz92&show_icons=true&theme=dark)
 ![Werner's GitHub stats](https://github-readme-stats.vercel.app/api?username=WernerLuiz92&show_icons=true&theme=dark)
-
-## My Codeium
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
