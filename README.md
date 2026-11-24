@@ -1,17 +1,20 @@
 ### Olá, tudo bem? 👋
 
 - 🙋‍♂️ Meu nome é **Werner Luiz Gottschalt**, sou um desenvolvedor de software fullstack com uma paixão incessante por aprender e explorar novas fronteiras da tecnologia.
-- 👨‍💻 Atualmente, sou desenvolvedor pleno na **[Lumiun Tecnologia](https://www.lumiun.com/)**, onde trabalho com tecnologias como PHP, Laravel, VueJS, InertiaJS, TailwindCSS e MySQL.
+- 👨‍💻 Atualmente, sou Engenheiro de Software na **[Widitec Qualyagro](https://www.qualyagro.com.br/)**, onde trabalho com tecnologias como PHP, Go, Laravel, CodeIgniter, VueJS, InertiaJS, TailwindCSS, MySQL, Redis.
 - 🔧 **Tecnologias que utilizo no meu dia a dia**:
   - PHP
+  - Go
   - Laravel
   - VueJS
   - InertiaJS
   - TailwindCSS
   - MySQL
+  - Redis
 - 🎓 **Estudando no momento**:
   - Ciência da Computação (Bacharelado) na **Anhanguera Educacional**
   - Python
+  - Go
 
 **Um pouco mais sobre mim**:  
 Além do desenvolvimento, sou um entusiasta de programação aplicada a jogos. Um dos meus hobbies favoritos é explorar como a programação pode ser integrada aos jogos para criar experiências mais imersivas e eficientes. Um exemplo disso é meu envolvimento com *Stationeers*, um jogo de simulação onde a automação é implementada utilizando uma linguagem (IC10) semelhante a Assembly. Esse tipo de jogo, que exige lógica precisa e criatividade, reflete muito do que me motiva na programação: encontrar soluções complexas em ambientes desafiadores.
